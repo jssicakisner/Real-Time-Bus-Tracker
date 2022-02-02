@@ -2,9 +2,17 @@
 
 This is a "Real Time" location of a random public bus in Boston, Massachusetts.
 
-## Installation
+## Technologies Used
 
-Download the Zip file on this [link](https://github.com/jobdecrypt/Real-Time-Bus-Tracker/archive/refs/heads/main.zip) to get the files for the Real Time Bus Tracker Exercise.
+* _HTML_
+* _CSS_
+* _JavaScript_
+
+## Installation Requirements
+
+* _Clone this repository to your desktop_
+* _Navigate to the top level of the directory_
+* _Open js/html.index in your browser_
 
 ## Roadmap
 
