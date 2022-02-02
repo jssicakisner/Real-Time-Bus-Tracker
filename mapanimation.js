@@ -8,7 +8,7 @@ const map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/satellite-streets-v11',
   center: [-71.078786, 42.340253],
-  zoom: 14,
+  zoom: 12,
 });
 
 async function run() {
